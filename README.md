@@ -205,7 +205,7 @@ I would like to thank NOBODY, YET.
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license" href='https://github.com/Oklukeok/blogApp/blob/dataModel/MIT.md'>This project is [MIT](./LICENSE) licensed.</a>
+## 📝 License <a name="license" href='https://github.com/Oklukeok/blogApp/blob/dataModel/MIT.md'>This project is [MIT](https://github.com/Oklukeok/blogApp/blob/dataModel/MIT.md) licensed.</a>
 
 
 
