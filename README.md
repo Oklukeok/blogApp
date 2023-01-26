@@ -52,7 +52,6 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -97,9 +96,9 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[Create posts]**
-- **[Comment posts]**
-- **[Like posts]**
+- **[Created a Ruby on Rails App]**
+- **[Postgres database set up]**
+- **[Tables created]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -117,6 +116,8 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+> Describe how a new developer could make use of your project.
+
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
@@ -125,29 +126,38 @@ In order to run this project you need:
 
 - Install Ruby
 - Install PostgreSQL
-- Install Rails gem
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+- Instal Rails gem
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-- git@github.com:Oklukeok/blogApp.git
-<!--
-Example commands:
+git@github.com:Oklukeok/blogApp.git
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+### Install
+
+Install this project with:
+
+- No Install needed
+
+### Usage
+
+- To run the project, use your text editor
+
+
+### Run tests
+
+To run tests, run the following command:
+
+- No tests yet
+
+### Deployment
+
+You can deploy this project using:
+
+- COMING SOON
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
@@ -203,11 +213,6 @@ I would like to thank...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
